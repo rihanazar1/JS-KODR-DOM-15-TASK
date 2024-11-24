@@ -1,0 +1,12 @@
+.box{
+    height: 200px;
+    width: 200px;
+    /* background-color: yellow; */
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+button{
+   margin-left: 4.5rem; 
+   margin-top: 2rem;
+}

@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10rem;
+    position: relative;
+}
+
+
+
+.box{
+    background-color: crimson;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    height: 100px;
+    width: 100px;
+}
+
+button{
+    margin-top: 2rem;
+}
